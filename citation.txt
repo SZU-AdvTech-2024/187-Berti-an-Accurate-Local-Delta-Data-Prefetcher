@@ -1,0 +1,8 @@
+@inproceedings{REPO187,
+    author = "Navarro-Torres, Agust{\'\i}n and Panda, Biswabandan and Alastruey-Bened{\'e}, Jes{\'u}s and Ib{\'a}{\\textasciitilde n}ez, Pablo and Vi{\\textasciitilde n}als-Y{\'u}fera, V{\'\i}ctor and Ros, Alberto",
+    booktitle = "2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+    organization = "IEEE",
+    pages = "975--991",
+    title = "{Berti: an accurate local-delta data prefetcher}",
+    year = "2022"
+}
